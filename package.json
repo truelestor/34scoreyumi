@@ -1,0 +1,18 @@
+{
+  "name": "34scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "totalcreditdetection.com ◄ Get Your FREE Credit Score totalcreditdetection.com, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "totalcreditdetection.com",
+    "what credit score is used to buy a car",
+    "credit score of 657",
+    "credit score 101",
+    "how much credit score for chase sapphire"
+  ],
+  "repository": "https://github.com/truelestor/34scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
